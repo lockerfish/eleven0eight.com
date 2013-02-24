@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en" ng-app="eleven0eight">
+<head>
+  <meta charset="utf-8">
+  <title>eleven0eight</title>
+  <link rel="stylesheet" href="css/app.css"/>
+</head>
+<body>
+  <img src="img/eleven0eight_logo.png"/>
+  <ul class="menu">
+    <li><span class="top-bar"></span></li>
+    <li><a href="#/home">Home</a></li>
+    <li><a href="#/services">Services</a></li>
+    <li><a href="#/aboutus">About Us</a></li>
+  </ul>
+
+  <div ng-view></div>
+
+  <!-- In production use:
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.4/angular.min.js"></script>
+  -->
+  <script src="lib/angular/angular.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/services.js"></script>
+  <script src="js/controllers.js"></script>
+  <script src="js/filters.js"></script>
+  <script src="js/directives.js"></script>
+
+  <ul class="footer">
+    <li>
+      <div class="contact">
+        <table>
+          <tr><td>Contact</td></tr>
+          <tr><td><img src="img/phone.gif"/></td><td>Phone:</td><td>347.762.1108</td></tr>
+          <tr><td><img src="img/email.gif"/></td><td>Email:</td><td>hendrix [at] eleven0eight.com</td></tr>
+        </table>
+      </div>
+    </li>
+    <li>
+      <div class="twitter-feed">
+        <table>
+          <tr>
+            <td>
+              <a class="twitter-timeline" href="https://twitter.com/search?q=%23webdeveloper" data-widget-id="305371828501745664">Tweets about "#webdeveloper"</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div class="connect">
+        <table>
+          <tr>
+            <td>
+              <img src="twitter.gif"/>
+              <img src="facebook.gif"/>
+              <img src="google+.gif"/>
+              <img src="linkedin.gif"/>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </li>
+  </ul>
+</body>
+</html>
