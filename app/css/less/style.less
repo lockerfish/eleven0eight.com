@@ -38,36 +38,67 @@
   box-shadow:0px 10px 5px #888888;
 }
 
-#mymenu-list {
-  background-color: red;
-  .nav;
-  .nav-pills;
-}
-.myheader {
-  .row();
-  .mylogo {
-    .span(5);
-    .offset(2);
-  }
-  .mymenu {
-    .span(4);
-    .offset(1);
-    padding-top: 25px;
-  }
-}
 
 #custom > .grid(@gridColumnWidth, @gridGutterWidth);
 @import "custom-responsive.less";
 
 //Rest of the normal LESS code
 
-.myheader {
-  .makeRow();
-  .mylogo {
-    .makeColumn(5, 2);
-  }
-  .mymenu {
-    .makeColumn(4, 1);
-    padding-top: 25px;
-  }
+/* ------------------ my code below --------------------------------- */
+/* Structure */
+#wrapper {
+  width: 96%;
+  max-width: 920px;
+  margin: auto;
+  padding: 2%;
+}
+#nav-shadow {
+  margin-top: 40px;
+  box-shadow: 10px 10px 5px #888888;
+}
+#nav-shadow span {
+  visibility:hidden;
+}
+#main {
+  width: 60%;
+  margin-right: 5%;
+  float: left;
+}
+aside {
+  width: 35%;
+  float: right;
+}
+
+/* Logo H1 */
+header h1 {
+  height: 70px;
+  width: 260px;
+  float: left;
+  display: block;
+  background: url(../img/logo.png) 0 0 no-repeat;
+  text-indent: -9999px;
+}
+/* Nav */
+header nav {
+  float: right;
+  margin-top: 40px;
+}
+header nav li {
+  display: inline;
+  margin-left: 15px;
+}
+#skipTo {
+  display: none;
+}
+#skipTo li {
+  background: #b1fffc;
+}
+/* Banner */
+#banner {
+  float: left;
+  margin-bottom: 15px;
+  width: 100%;
+}
+#banner img {
+  width: 100%;
 }
