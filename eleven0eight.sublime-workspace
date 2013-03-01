@@ -1,0 +1,221 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Marked.sublime-build",
+	"command_palette":
+	{
+		"height": 367.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"fetp",
+				"Fetch: Package"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Gist: Open Gist"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"brw",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"man",
+				"Fetch: Manage"
+			],
+			[
+				"ins",
+				"Indentation: Convert to Spaces"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hendrix/Downloads/immigration",
+		"/Users/hendrix/workspace/playground/boilerplate/test-article.md",
+		"/Users/hendrix/workspace/playground/boilerplate/index.html",
+		"/Users/hendrix/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/hendrix/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/hendrix/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/hendrix/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/hendrix/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/hendrix/Desktop/easy_start/newfile.js",
+		"/Users/hendrix/Desktop/easy_start/styles/custom.css",
+		"/Users/hendrix/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/hendrix/Desktop/easy_start/grid.html",
+		"/Users/hendrix/Desktop/easy_start/credits.txt",
+		"/Users/hendrix/Library/Application Support/Sublime Text 2/Packages/User/Gist.sublime-settings",
+		"/Users/hendrix/Library/Application Support/Sublime Text 2/Packages/Gist/Gist.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ctrl",
+			"open",
+			"test",
+			"lorem",
+			"Licen",
+			"Copyright"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"new",
+				"newfile.js"
+			],
+			[
+				"css",
+				"styles/custom.css"
+			],
+			[
+				"g",
+				"grid.html"
+			],
+			[
+				"gr",
+				"grid.html"
+			],
+			[
+				"ind",
+				"app/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 137.0,
+	"status_bar_visible": true
+}
