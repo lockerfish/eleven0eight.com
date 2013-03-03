@@ -18,3 +18,8 @@ $(document).ready(function () {
 
 });
 
+
+function HelloCntl($scope) {
+  $scope.name = 'World';
+}
+
